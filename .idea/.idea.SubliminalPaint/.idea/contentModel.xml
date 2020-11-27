@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Owner\AppData\Local\JetBrains\Rider2020.3\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Owner\AppData\Local\JetBrains\Rider2020.3\resharper-host\Local\Transient\Rider\v203\SolutionCaches\_SubliminalPaint.442345456.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Owner\AppData\Roaming\JetBrains\Rider2020.3\consoles\db" t="IncludeRecursive" />
+    <e p="C:\Users\Owner\AppData\Roaming\JetBrains\Rider2020.3\extensions" t="IncludeRecursive" />
+    <e p="C:\Users\Owner\RiderProjects\SubliminalPaint" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="spForm" t="IncludeRecursive">
+        <e p="aboutForm.cs" t="Include" />
+        <e p="aboutForm.Designer.cs" t="Include" />
+        <e p="aboutForm.resx" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="mainForm.cs" t="Include" />
+        <e p="mainForm.Designer.cs" t="Include" />
+        <e p="mainForm.resx" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="net5.0-windows" t="Include">
+              <e p="spForm.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="programClass.cs" t="Include" />
+        <e p="spForm.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="SubliminalPaint.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
